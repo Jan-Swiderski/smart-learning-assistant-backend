@@ -1,0 +1,13 @@
+SmartLearningAsistant/
+│
+├── app/
+│   ├── __init__.py
+|   ├── auth.py
+|   ├── config.py
+|   ├── extensions.py
+│   ├── models.py          # Modele SQLAlchemy
+│   └── routes.py          # Definicje tras/endpoints
+│
+├── venv/                  # Środowisko wirtualne Pythona
+│
+└── run.py                 # Plik wejściowy do uruchomienia aplikacji
